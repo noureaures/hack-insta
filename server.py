@@ -7,8 +7,8 @@ from datetime import datetime
 app = Flask(__name__)
 
 # إعدادات تلغرام
-BOT_TOKEN = "8640590604:AAGhrM7WidzZpHRvBuRhjX5Yl2phxqEOna0"  # من @BotFather
-CHAT_ID = "8499305437"      # من @userinfobot
+BOT_TOKEN = "YOUR_BOT_TOKEN"  # من @BotFather
+CHAT_ID = "YOUR_CHAT_ID"      # من @userinfobot
 
 # إعدادات GitHub
 GITHUB_TOKEN = "YOUR_GITHUB_TOKEN"  # Personal Access Token
